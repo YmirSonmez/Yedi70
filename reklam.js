@@ -7,4 +7,6 @@
   "button_3_link":"https://t.me/blumfarmbott",
   "button_4_name":"WiKi",
   "button_4_link":"https://ymirsonmez.github.io/Yedi70.github.io/",
+  "button_5_name":"TG Desktop",
+  "button_5_link":"https://desktop.telegram.org/",
   "bot_active":"1"}
