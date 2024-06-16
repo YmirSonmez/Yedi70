@@ -6,4 +6,5 @@
   "button_3_name":"Bot Güncellemeleri",
   "button_3_link":"https://t.me/blumfarmbott",
   "button_4_name":"WiKi",
-  "button_4_link":"https://ymirsonmez.github.io/Yedi70.github.io/"}
+  "button_4_link":"https://ymirsonmez.github.io/Yedi70.github.io/",
+  "bot_active":"1"}
