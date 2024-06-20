@@ -10,4 +10,5 @@
   "button_5_name":"TG Desktop",
   "button_5_link":"https://desktop.telegram.org/",
   "bot_active":"1",
-  "active":"1"}
+  "active":"1",
+  "cause":"asd"}
