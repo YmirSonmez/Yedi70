@@ -3,7 +3,7 @@
   "button_1_link":"https://t.me/+wC0eF2DdiZ81MTNk",
   "button_2_name":"Yedi70 Instagram",
   "button_2_link":"https://www.instagram.com/yedi70kazan/",
-  "button_3_name":"Bot Güncellemeleri",
+  "button_3_name":"v4.1 Yayılandı!",
   "button_3_link":"https://t.me/blumfarmbott",
   "button_4_name":"WiKi",
   "button_4_link":"https://ymirsonmez.github.io/Yedi70.github.io/",
