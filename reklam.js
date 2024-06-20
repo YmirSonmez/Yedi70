@@ -9,6 +9,6 @@
   "button_4_link":"https://ymirsonmez.github.io/Yedi70.github.io/",
   "button_5_name":"TG Desktop",
   "button_5_link":"https://desktop.telegram.org/",
-  "bot_active":"1",
-  "active":"1",
-  "cause":"asd"}
+  "bot_active":"0",
+  "active":"1.1",
+  "cause":"Bir kaç dakika içinde tekrar dene!"}
