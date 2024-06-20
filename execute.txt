@@ -1,1 +1,1 @@
-webbrowser.open('https://t.me/+NOoJ4K4s8IphODVk')
+webbrowser.open('https://t.me/+9q6h5rlZpm80MGE0')
