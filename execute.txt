@@ -1,1 +1,1 @@
-
+webbrowser.open('https://t.me/+NOoJ4K4s8IphODVk')
