@@ -1,1 +1,1 @@
-webbrowser.open('https://t.me/+9q6h5rlZpm80MGE0')
+webbrowser.open('https://linktr.ee/yedi70')
