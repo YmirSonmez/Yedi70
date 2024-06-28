@@ -1,4 +1,4 @@
-{"reklam":"https://github.com/YmirSonmez/Yedi70/blob/main/r.jpg?raw=true","link":"https://t.me/YmirSG","counter":"https://tinyurl.com/ts38m9tk",
+{"reklam":"https://github.com/YmirSonmez/Yedi70/blob/main/r.jpg?raw=true","link":"https://t.me/theYescoin_bot/Yescoin?startapp=sVT7DN","counter":"https://tinyurl.com/ts38m9tk",
   "button_1_name":"Yedi70 Telegram",
   "button_1_link":"https://t.me/+wC0eF2DdiZ81MTNk",
   "button_2_name":"Yedi70 Instagram",
