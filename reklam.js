@@ -10,4 +10,5 @@
   "button_5_name":"TG Desktop",
   "button_5_link":"https://desktop.telegram.org/",
   "active":"1.1",
-  "cause":"Bir kaç dakika içinde tekrar dene!"}
+  "cause":"Bir kaç dakika içinde tekrar dene!",
+  "blum_v":1}
