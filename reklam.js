@@ -11,4 +11,4 @@
   "button_5_link":"https://desktop.telegram.org/",
   "active":"1.2",
   "cause":"Blum güncellemesinden dolayı 4.3 sürümüne geçilmiştir! Eski sürümdesiniz! Telegram @BlumFarmBott",
-  "blum_v":1}
+  "blum_v":0}
